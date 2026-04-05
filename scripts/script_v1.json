@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "product": "CloudSync Pro \u2014 a business cloud storage solution",
+  "opening": "Hi, this is Alex from CloudSync. We help businesses reduce storage costs by up to 40%. Do you have 2 minutes to hear how?",
+  "objection_responses": {
+    "too expensive": "I understand cost is a concern. Most of our clients actually save money within the first 3 months due to reduced IT overhead.",
+    "not interested": "I completely understand. Can I ask what your current storage solution looks like? We might have something more relevant.",
+    "already have a solution": "That is great to hear. Many of our clients switched from similar solutions after seeing our security and speed benchmarks.",
+    "no time": "No problem at all. Can I send you a one-page summary to look at when convenient?",
+    "default": "That is a fair point. Let me address that \u2014 our clients typically see results within 30 days with zero migration hassle."
+  },
+  "closing": "Based on what you have shared, I think CloudSync could genuinely help. Would you be open to a free 15-minute demo this week?"
+}
